@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Fundação Getulio Vargas
-- 🌱 I’m currently learning Cloud Computing, IA and Machine Learning
+- 🌱 I’m learning Cloud Computing, IA and Machine Learning
 - 💬 Ask me about Software Architecture, .Net, .NetCore, C#, Angular, React and Python 
 
 
